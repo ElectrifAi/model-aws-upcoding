@@ -3,7 +3,7 @@
 ## Input:
 A **json file** with claim details in the below format. Reference file: sample.json
 
-- keys: integer (i.e. 1,2,3,...) indicate each sample in the dataset in ascending order starting at 1 (REQUIRED)
+- key: integer (i.e. 1,2,3,...) indicate each sample in the dataset in ascending order starting at 1 (REQUIRED)
 - value: dictionary
   - key: __ACCOUNT_ID__
   - value: corresponding account ID (REQUIRED)
